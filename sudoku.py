@@ -132,7 +132,7 @@ def solve_board(board):
 
 
 def main():
-    print(solve_board(board3))
+    print(solve_board(board2))
     print("============ DONE ==============")
     print("Total Calls: %d"%(calls))
     end_time = time.time()
